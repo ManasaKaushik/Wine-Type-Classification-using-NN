@@ -1,5 +1,5 @@
-# Wine-Type-Prediction-Using-NN
+# WINE TYPE CLASSIFICATION USING NEURAL NETWORKS
 
-The code classifies wine into either red or white
-pre-requisites include Keras.
-Number of epochs can be changed to test the accuracy levels.
+The outcome is the prediction of the nature of the wine: Red/White
+Pre-Requisites: Keras
+Epochs can be varied to tweak validation accuracy.
